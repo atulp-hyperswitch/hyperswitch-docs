@@ -1,4 +1,4 @@
 ---
-description: Learn about  to optimize your payment infrastructure
+description: Understand connector architecture terms to navigate the integration framework and streamline payment operations
 ---
 

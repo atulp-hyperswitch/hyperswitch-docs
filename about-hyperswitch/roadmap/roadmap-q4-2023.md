@@ -1,5 +1,5 @@
 ---
-description: Learn about Previous roadmap - Q4 2023 to optimize your payment infrastructure
+description: Configure Previous roadmap - Q4 2023 to optimize your payment infrastructure and improve payment processing efficiency
 icon: road
 ---
 

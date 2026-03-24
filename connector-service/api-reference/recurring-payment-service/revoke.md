@@ -1,5 +1,5 @@
 ---
-description: Learn about Revoke to optimize your payment infrastructure
+description: Configure Revoke to optimize your payment infrastructure and improve payment processing efficiency
 ---
 
 # Revoke

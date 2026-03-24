@@ -1,5 +1,5 @@
 ---
-description: Learn about Overview to optimize your payment infrastructure
+description: Configure Overview to optimize your payment infrastructure and improve payment processing efficiency
 ---
 
 # Overview

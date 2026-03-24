@@ -1,5 +1,5 @@
 ---
-description: Learn about Open Banking to optimize your payment infrastructure
+description: Configure Open Banking to optimize your payment infrastructure and improve payment processing efficiency
 ---
 
 # Open Banking

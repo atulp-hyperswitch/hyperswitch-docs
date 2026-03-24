@@ -1,6 +1,6 @@
 ---
 icon: paypal
-description: Learn about PayPal to optimize your payment infrastructure
+description: Integrate PayPal payments to accept cards and alternative payment methods globally and improve payment processing efficiency
 ---
 
 # PayPal

@@ -1,5 +1,5 @@
 ---
-description: Learn about Extending to More Flows to optimize your payment infrastructure
+description: Configure Extending to More Flows to optimize your payment infrastructure and improve payment processing efficiency
 ---
 
 # Extending to More Flows

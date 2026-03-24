@@ -1,5 +1,5 @@
 ---
-description: Learn about First Payment with Error Handling to optimize your payment infrastructure
+description: Configure First Payment with Error Handling to optimize your payment infrastructure and improve payment processing efficiency
 ---
 
 # First Payment with Error Handling

@@ -1,4 +1,4 @@
 ---
-description: Learn about  to optimize your payment infrastructure
+description: Generate connector documentation automatically to streamline implementation and streamline payment operations
 ---
 

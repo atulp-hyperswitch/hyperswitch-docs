@@ -1,5 +1,5 @@
 ---
-description: Learn about Overview to optimize your payment infrastructure
+description: Configure Overview to optimize your payment infrastructure and improve payment processing efficiency
 icon: earth-asia
 cover: .gitbook/assets/Hero visual V6 (2).png
 coverY: 0

@@ -1,5 +1,5 @@
 ---
-description: Learn about Billwerk to optimize your payment infrastructure
+description: Integrate Billwerk subscription payments to accept cards and alternative payment methods globally and improve payment processing efficiency
 hidden: true
 ---
 

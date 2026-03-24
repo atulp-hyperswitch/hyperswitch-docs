@@ -1,5 +1,5 @@
 ---
-description: Learn about Visa Click to Pay: V1 to V2 Migration to optimize your payment infrastructure
+description: Configure Visa Click to Pay V1 to V2 Migration to optimize your payment infrastructure and improve payment processing efficiency
 icon: cc-visa
 ---
 

@@ -1,5 +1,5 @@
 ---
-description: Learn about Checkout to optimize your payment infrastructure
+description: Integrate Checkout.com payments to accept cards and alternative payment methods globally and improve payment processing efficiency
 hidden: true
 ---
 

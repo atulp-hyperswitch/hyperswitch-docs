@@ -1,6 +1,6 @@
 ---
 icon: clipboard-question
-description: Learn about Completing the SAQ to optimize your payment infrastructure
+description: Configure Completing the SAQ to optimize your payment infrastructure and improve payment processing efficiency
 ---
 
 # Completing the SAQ

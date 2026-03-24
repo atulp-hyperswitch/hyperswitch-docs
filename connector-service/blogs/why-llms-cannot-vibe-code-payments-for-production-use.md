@@ -1,4 +1,4 @@
 ---
-description: Explore payment solutions designed for your specific business use case
+description: Configure Why Llms Cannot Vibe Code Payments For Production Use to address specific payment processing requirements
 ---
 

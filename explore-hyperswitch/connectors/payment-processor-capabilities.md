@@ -1,5 +1,5 @@
 ---
-description: Learn about Payment Processor Capabilities to optimize your payment infrastructure
+description: Integrate Payment Processor Capabilities to process payments through this connector and improve payment processing efficiency
 icon: money-bill-1-wave
 ---
 

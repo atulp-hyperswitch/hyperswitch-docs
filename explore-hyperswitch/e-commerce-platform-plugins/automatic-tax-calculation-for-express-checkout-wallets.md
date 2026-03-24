@@ -1,5 +1,5 @@
 ---
-description: Explore payment solutions designed for your specific business use case
+description: Configure payment features to streamline checkout experiences and improve conversions and streamline payment operations
 icon: filter-circle-dollar
 ---
 

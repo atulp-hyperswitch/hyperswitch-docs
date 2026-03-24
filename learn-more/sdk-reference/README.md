@@ -1,5 +1,5 @@
 ---
-description: Explore SDK documentation to integrate payment processing into your applications
+description: Integrate vault SDK to securely store and manage payment credentials and streamline payment operations
 icon: chart-candlestick
 ---
 

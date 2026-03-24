@@ -1,5 +1,5 @@
 ---
-description: Learn about Klarna to optimize your payment infrastructure
+description: Integrate Klarna buy now pay later to accept cards and alternative payment methods globally and improve payment processing efficiency
 hidden: true
 ---
 

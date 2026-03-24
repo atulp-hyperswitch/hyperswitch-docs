@@ -1,6 +1,6 @@
 ---
 icon: chart-diagram
-description: Learn about Overcapture to optimize your payment infrastructure
+description: Configure Overcapture to optimize your payment infrastructure and improve payment processing efficiency
 ---
 
 # Overcapture

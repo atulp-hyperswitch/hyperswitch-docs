@@ -1,5 +1,5 @@
 ---
-description: Learn about Volt to optimize your payment infrastructure
+description: Integrate Volt open banking payments to accept cards and alternative payment methods globally and improve payment processing efficiency
 hidden: true
 ---
 

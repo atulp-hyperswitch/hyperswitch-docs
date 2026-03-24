@@ -1,5 +1,5 @@
 ---
-description: Learn about MultiSafepay to optimize your payment infrastructure
+description: Integrate MultiSafepay to process payments through this connector and improve payment processing efficiency
 hidden: true
 ---
 

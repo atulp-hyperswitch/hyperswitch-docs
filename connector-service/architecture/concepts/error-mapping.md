@@ -1,5 +1,5 @@
 ---
-description: Learn about Error Mapping to optimize your payment infrastructure
+description: Configure Error Mapping to optimize your payment infrastructure and improve payment processing efficiency
 ---
 
 # Error Mapping

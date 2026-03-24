@@ -1,5 +1,5 @@
 ---
-description: Learn about A Payments Switch with virtually zero overhead to optimize your payment infrastructure
+description: Configure A Payments Switch with virtually zero overhead to optimize your payment infrastructure and improve payment processing efficiency
 ---
 
 # A Payments Switch with virtually zero overhead

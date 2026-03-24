@@ -1,6 +1,6 @@
 ---
 hidden: true
-description: Learn about Services to optimize your payment infrastructure
+description: Understand reconciliation services to streamline financial operations and improve payment processing efficiency
 ---
 
 # Services

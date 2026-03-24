@@ -1,5 +1,5 @@
 ---
-description: Learn about Getting Started with Recon to optimize your payment infrastructure
+description: Set up automated reconciliation to match transactions and identify discrepancies and improve payment processing efficiency
 ---
 
 # Getting Started with Recon

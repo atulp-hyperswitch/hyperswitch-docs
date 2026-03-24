@@ -1,6 +1,6 @@
 ---
 icon: monitor-waveform
-description: Learn about Monitoring and Alerts to optimize your payment infrastructure
+description: Configure Monitoring and Alerts to optimize your payment infrastructure and improve payment processing efficiency
 ---
 
 # Monitoring and Alerts

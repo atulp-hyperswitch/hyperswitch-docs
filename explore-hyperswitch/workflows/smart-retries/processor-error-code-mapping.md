@@ -1,6 +1,6 @@
 ---
 icon: signs-post
-description: Learn about Processor error code mapping to optimize your payment infrastructure
+description: Configure Processor error code mapping to optimize your payment infrastructure and improve payment processing efficiency
 ---
 
 # Processor error code mapping

@@ -1,5 +1,5 @@
 ---
-description: Learn about integration options for accepting payments online.
+description: Integrate payment experiences to accept cards wallets and alternative methods online and streamline payment operations
 icon: sidebar-flip
 ---
 

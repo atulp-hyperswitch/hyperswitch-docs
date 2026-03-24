@@ -1,5 +1,5 @@
 ---
-description: Learn about Headless SDK to optimize your payment infrastructure
+description: Configure Headless SDK to optimize your payment infrastructure and improve payment processing efficiency
 icon: table-cells-large
 ---
 

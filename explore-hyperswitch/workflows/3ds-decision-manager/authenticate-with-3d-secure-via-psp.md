@@ -1,6 +1,6 @@
 ---
 icon: rotate-exclamation
-description: Learn about Authenticate with 3D Secure via PSP to optimize your payment infrastructure
+description: Configure Authenticate with 3D Secure via PSP to optimize your payment infrastructure and improve payment processing efficiency
 ---
 
 # Authenticate with 3D Secure via PSP

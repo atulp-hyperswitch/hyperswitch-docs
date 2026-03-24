@@ -1,5 +1,5 @@
 ---
-description: Learn about Level 2 and Level 3 data to optimize your payment infrastructure
+description: Configure Level 2 and Level 3 data to optimize your payment infrastructure and improve payment processing efficiency
 ---
 
 # Level 2 and Level 3 data

@@ -1,5 +1,5 @@
 ---
-description: Learn about Bank of America to optimize your payment infrastructure
+description: Integrate Bank of America to process payments through this connector and improve payment processing efficiency
 hidden: true
 ---
 

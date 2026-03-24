@@ -1,5 +1,5 @@
 ---
-description: Learn about Environment Settings to optimize your payment infrastructure
+description: Configure Environment Settings to optimize your payment infrastructure and improve payment processing efficiency
 ---
 
 # Environment Settings

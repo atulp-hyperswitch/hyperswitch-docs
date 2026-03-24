@@ -1,5 +1,5 @@
 ---
-description: Learn about App Clips to optimize your payment infrastructure
+description: Configure App Clips to optimize your payment infrastructure and improve payment processing efficiency
 icon: app-store
 ---
 

@@ -1,5 +1,5 @@
 ---
-description: Learn about Adyen to optimize your payment infrastructure
+description: Integrate Adyen payments to accept cards and alternative payment methods globally and improve payment processing efficiency
 ---
 
 # Adyen

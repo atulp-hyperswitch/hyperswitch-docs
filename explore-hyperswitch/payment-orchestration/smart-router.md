@@ -1,5 +1,5 @@
 ---
-description: Infinite control over managing your payments
+description: Configure intelligent payment routing rules to optimize for cost speed and success rates and streamline payment operations
 hidden: true
 icon: swap
 ---

@@ -1,5 +1,5 @@
 ---
-description: Learn about Paypal to optimize your payment infrastructure
+description: Integrate PayPal payments to accept cards and alternative payment methods globally and improve payment processing efficiency
 hidden: true
 ---
 

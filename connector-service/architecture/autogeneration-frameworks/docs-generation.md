@@ -1,5 +1,5 @@
 ---
-description: Learn about Documentation Generation to optimize your payment infrastructure
+description: Configure Documentation Generation to optimize your payment infrastructure and improve payment processing efficiency
 ---
 
 # Documentation Generation

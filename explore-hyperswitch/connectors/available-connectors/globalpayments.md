@@ -1,5 +1,5 @@
 ---
-description: Learn about GlobalPayments to optimize your payment infrastructure
+description: Integrate GlobalPayments to process payments through this connector and improve payment processing efficiency
 hidden: true
 ---
 

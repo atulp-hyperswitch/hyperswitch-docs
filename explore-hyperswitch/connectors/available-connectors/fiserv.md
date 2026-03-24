@@ -1,5 +1,5 @@
 ---
-description: Learn about Fiserv to optimize your payment infrastructure
+description: Integrate Fiserv to process payments through this connector and improve payment processing efficiency
 hidden: true
 ---
 

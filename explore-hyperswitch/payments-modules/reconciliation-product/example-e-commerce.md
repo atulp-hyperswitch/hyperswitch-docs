@@ -1,5 +1,5 @@
 ---
-description: Learn about Example: E Commerce to optimize your payment infrastructure
+description: Configure reconciliation for e-commerce platforms to automate financial reporting and improve payment processing efficiency
 ---
 
 # Example: E Commerce

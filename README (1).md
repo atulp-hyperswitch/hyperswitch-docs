@@ -2,7 +2,7 @@
 icon: screwdriver-wrench
 cover: .gitbook/assets/Hero visual V6 (2).png
 coverY: 0
-description: Learn about Get Started to optimize your payment infrastructure
+description: Configure Get Started to optimize your payment infrastructure and improve payment processing efficiency
 ---
 
 # Get Started

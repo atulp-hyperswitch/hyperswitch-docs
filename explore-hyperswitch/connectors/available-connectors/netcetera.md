@@ -1,5 +1,5 @@
 ---
-description: Learn about Netcetera to optimize your payment infrastructure
+description: Integrate Netcetera to process payments through this connector and improve payment processing efficiency
 ---
 
 # Netcetera

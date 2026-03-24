@@ -1,4 +1,4 @@
 ---
-description: Learn about  to optimize your payment infrastructure
+description: Handle multi-currency transactions to support global payment processing and streamline payment operations
 ---
 

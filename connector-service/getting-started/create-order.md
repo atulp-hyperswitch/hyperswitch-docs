@@ -1,5 +1,5 @@
 ---
-description: Learn about Quick Start to optimize your payment infrastructure
+description: Configure Quick Start to optimize your payment infrastructure and improve payment processing efficiency
 ---
 
 # Quick Start

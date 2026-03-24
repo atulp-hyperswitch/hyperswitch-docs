@@ -1,6 +1,6 @@
 ---
 icon: square-tenge
-description: Learn about Extended Authorization to optimize your payment infrastructure
+description: Configure Extended Authorization to optimize your payment infrastructure and improve payment processing efficiency
 ---
 
 # Extended Authorization

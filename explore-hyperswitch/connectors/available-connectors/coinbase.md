@@ -1,5 +1,5 @@
 ---
-description: Learn about Coinbase to optimize your payment infrastructure
+description: Integrate Coinbase to process payments through this connector and improve payment processing efficiency
 hidden: true
 ---
 

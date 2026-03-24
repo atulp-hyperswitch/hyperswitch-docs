@@ -1,7 +1,7 @@
 ---
 hidden: true
 icon: money-bills-simple
-description: Learn about Copy of Payments to optimize your payment infrastructure
+description: Configure Copy of Payments to optimize your payment infrastructure and improve payment processing efficiency
 ---
 
 # Copy of Payments

@@ -1,5 +1,5 @@
 ---
-description: Learn about dLocal to optimize your payment infrastructure
+description: Integrate dLocal to process payments through this connector and improve payment processing efficiency
 hidden: true
 ---
 

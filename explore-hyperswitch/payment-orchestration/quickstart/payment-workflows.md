@@ -1,6 +1,6 @@
 ---
 icon: code-compare
-description: Learn about Supported Payment Workflows to optimize your payment infrastructure
+description: Configure Supported Payment Workflows to optimize your payment infrastructure and improve payment processing efficiency
 ---
 
 # Supported Payment Workflows

@@ -1,5 +1,5 @@
 ---
-description: Learn about Exporting payments data to optimize your payment infrastructure
+description: Configure Exporting payments data to optimize your payment infrastructure and improve payment processing efficiency
 icon: tachograph-digital
 ---
 

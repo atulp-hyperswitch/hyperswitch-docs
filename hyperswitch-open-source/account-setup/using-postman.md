@@ -1,5 +1,5 @@
 ---
-description: Learn about Using postman to optimize your payment infrastructure
+description: Configure Using postman to optimize your payment infrastructure and improve payment processing efficiency
 icon: rocket-launch
 ---
 

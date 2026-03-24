@@ -1,5 +1,5 @@
 ---
-description: Learn about Upgrade Hyperswitch to optimize your payment infrastructure
+description: Configure Upgrade Hyperswitch to optimize your payment infrastructure and improve payment processing efficiency
 ---
 
 # Upgrade Hyperswitch

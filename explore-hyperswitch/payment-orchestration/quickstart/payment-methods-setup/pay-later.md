@@ -1,5 +1,5 @@
 ---
-description: Learn about Pay Later to optimize your payment infrastructure
+description: Configure Pay Later to optimize your payment infrastructure and improve payment processing efficiency
 icon: calendar-day
 ---
 

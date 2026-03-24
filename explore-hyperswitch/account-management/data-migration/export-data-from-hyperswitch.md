@@ -1,6 +1,6 @@
 ---
 icon: left-from-bracket
-description: Learn about Export data from Hyperswitch to optimize your payment infrastructure
+description: Configure Export data from Hyperswitch to optimize your payment infrastructure and improve payment processing efficiency
 ---
 
 # Export data from Hyperswitch

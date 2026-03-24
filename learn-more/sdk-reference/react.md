@@ -1,5 +1,5 @@
 ---
-description: Learn about React to optimize your payment infrastructure
+description: Configure React to optimize your payment infrastructure and improve payment processing efficiency
 ---
 
 # React

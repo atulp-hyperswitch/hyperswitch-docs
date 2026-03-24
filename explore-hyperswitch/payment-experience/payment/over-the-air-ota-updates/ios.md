@@ -1,6 +1,6 @@
 ---
 icon: apple
-description: Learn about iOS to optimize your payment infrastructure
+description: Configure Ios to optimize your payment infrastructure and improve payment processing efficiency
 ---
 
 # iOS

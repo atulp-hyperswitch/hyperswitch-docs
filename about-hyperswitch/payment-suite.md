@@ -2,7 +2,7 @@
 hidden: true
 noIndex: true
 icon: suitcase
-description: Learn about Payment Suite to optimize your payment infrastructure
+description: Configure Payment Suite to optimize your payment infrastructure and improve payment processing efficiency
 ---
 
 # Payment Suite

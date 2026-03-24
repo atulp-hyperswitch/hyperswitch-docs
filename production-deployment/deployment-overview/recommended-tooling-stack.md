@@ -1,5 +1,5 @@
 ---
-description: Learn about Recommended Tooling Stack to optimize your payment infrastructure
+description: Configure Recommended Tooling Stack to optimize your payment infrastructure and improve payment processing efficiency
 ---
 
 # Recommended Tooling Stack

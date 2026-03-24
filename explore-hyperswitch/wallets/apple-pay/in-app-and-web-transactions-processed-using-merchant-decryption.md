@@ -1,6 +1,6 @@
 ---
 hidden: true
-description: Learn about In-App and Web Transactions Processed Using Merchant Decryption to optimize your payment infrastructure
+description: Configure In-App and Web Transactions Processed Using Merchant Decryption to optimize your payment infrastructure and improve payment processing efficiency
 ---
 
 # In-App and Web Transactions Processed Using Merchant Decryption

@@ -1,5 +1,5 @@
 ---
-description: Learn about ID and Object Modeling to optimize your payment infrastructure
+description: Configure ID and Object Modeling to optimize your payment infrastructure and improve payment processing efficiency
 ---
 
 # ID and Object Modeling

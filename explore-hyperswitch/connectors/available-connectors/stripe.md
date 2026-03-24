@@ -1,5 +1,5 @@
 ---
-description: Learn about Stripe to optimize your payment infrastructure
+description: Integrate Stripe payments to accept cards and alternative payment methods globally and improve payment processing efficiency
 ---
 
 # Stripe

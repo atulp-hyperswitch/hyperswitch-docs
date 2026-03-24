@@ -1,5 +1,5 @@
 ---
-description: Learn about Error Handling to optimize your payment infrastructure
+description: Configure Error Handling to optimize your payment infrastructure and improve payment processing efficiency
 ---
 
 # Error Handling

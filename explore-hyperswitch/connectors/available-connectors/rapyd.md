@@ -1,5 +1,5 @@
 ---
-description: Learn about Rapyd to optimize your payment infrastructure
+description: Integrate Rapyd payments to accept cards and alternative payment methods globally and improve payment processing efficiency
 hidden: true
 ---
 

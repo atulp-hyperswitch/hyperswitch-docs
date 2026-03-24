@@ -1,5 +1,5 @@
 ---
-description: Learn about Specs and DSL to optimize your payment infrastructure
+description: Configure Specs and DSL to optimize your payment infrastructure and improve payment processing efficiency
 ---
 
 # Specs and DSL

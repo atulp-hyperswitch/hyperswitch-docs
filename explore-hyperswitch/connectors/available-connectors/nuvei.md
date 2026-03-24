@@ -1,5 +1,5 @@
 ---
-description: Learn about Nuvei to optimize your payment infrastructure
+description: Integrate Nuvei to process payments through this connector and improve payment processing efficiency
 hidden: true
 ---
 

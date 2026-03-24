@@ -1,5 +1,5 @@
 ---
-description: Learn about Frequently Asked Questions to optimize your payment infrastructure
+description: Configure Frequently Asked Questions to optimize your payment infrastructure and improve payment processing efficiency
 ---
 
 # Frequently Asked Questions

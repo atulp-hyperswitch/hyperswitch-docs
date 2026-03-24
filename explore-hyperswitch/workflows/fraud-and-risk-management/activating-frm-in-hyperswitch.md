@@ -1,6 +1,6 @@
 ---
 icon: shield-plus
-description: Learn about Activating FRM in Hyperswitch to optimize your payment infrastructure
+description: Configure Activating FRM in Hyperswitch to optimize your payment infrastructure and improve payment processing efficiency
 ---
 
 # Activating FRM in Hyperswitch

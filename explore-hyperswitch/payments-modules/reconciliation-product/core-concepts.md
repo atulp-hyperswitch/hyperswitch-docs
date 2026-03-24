@@ -1,5 +1,5 @@
 ---
-description: Learn about Core Concepts to optimize your payment infrastructure
+description: Learn reconciliation fundamentals to implement accurate transaction matching and improve payment processing efficiency
 ---
 
 # Core Concepts

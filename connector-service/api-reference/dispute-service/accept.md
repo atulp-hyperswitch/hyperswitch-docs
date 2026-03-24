@@ -1,5 +1,5 @@
 ---
-description: Learn about Accept to optimize your payment infrastructure
+description: Configure Accept to optimize your payment infrastructure and improve payment processing efficiency
 ---
 
 # Accept

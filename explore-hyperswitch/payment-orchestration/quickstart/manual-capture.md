@@ -1,5 +1,5 @@
 ---
-description: Learn about Manual Capture to optimize your payment infrastructure
+description: Configure Manual Capture to optimize your payment infrastructure and improve payment processing efficiency
 hidden: true
 icon: sack-dollar
 ---

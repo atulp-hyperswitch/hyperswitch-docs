@@ -1,5 +1,5 @@
 ---
-description: Learn about JS to optimize your payment infrastructure
+description: Configure Js to optimize your payment infrastructure and improve payment processing efficiency
 ---
 
 # JS

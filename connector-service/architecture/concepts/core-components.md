@@ -1,5 +1,5 @@
 ---
-description: Learn about Core Components to optimize your payment infrastructure
+description: Configure Core Components to optimize your payment infrastructure and improve payment processing efficiency
 ---
 
 # Core Components

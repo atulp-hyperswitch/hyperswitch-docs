@@ -1,5 +1,5 @@
 ---
-description: Learn about Library Modes of Usage to optimize your payment infrastructure
+description: Configure Library Modes of Usage to optimize your payment infrastructure and improve payment processing efficiency
 ---
 
 # Library Modes of Usage

@@ -1,6 +1,6 @@
 ---
 icon: barcode-read
-description: Learn about Card Scanning to optimize your payment infrastructure
+description: Enable Card Scanning to enhance your payment processing capabilities and improve payment processing efficiency
 ---
 
 # Card Scanning

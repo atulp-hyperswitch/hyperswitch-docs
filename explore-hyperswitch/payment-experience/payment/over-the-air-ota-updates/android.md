@@ -1,6 +1,6 @@
 ---
 icon: android
-description: Learn about Android to optimize your payment infrastructure
+description: Configure Android to optimize your payment infrastructure and improve payment processing efficiency
 ---
 
 # Android

@@ -1,5 +1,5 @@
 ---
-description: Learn about Web Transactions Processed Using Hyperswitch Decryption (Without Apple Merchant ID) to optimize your payment infrastructure
+description: Configure Web Transactions Processed Using Hyperswitch Decryption Without Apple Merchant ID to optimize your payment infrastructure
 ---
 
 # Web Transactions Processed Using Hyperswitch Decryption (Without Apple Merchant ID)

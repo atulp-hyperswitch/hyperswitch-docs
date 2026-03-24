@@ -1,5 +1,5 @@
 ---
-description: Learn about Mollie to optimize your payment infrastructure
+description: Integrate Mollie to process payments through this connector and improve payment processing efficiency
 hidden: true
 ---
 

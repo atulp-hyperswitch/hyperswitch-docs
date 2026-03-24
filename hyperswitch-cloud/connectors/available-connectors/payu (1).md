@@ -1,5 +1,5 @@
 ---
-description: Learn about PayU to optimize your payment infrastructure
+description: Integrate PayU to process payments through this connector and improve payment processing efficiency
 ---
 
 # PayU

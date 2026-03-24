@@ -1,5 +1,5 @@
 ---
-description: Learn about Reverse to optimize your payment infrastructure
+description: Configure Reverse to optimize your payment infrastructure and improve payment processing efficiency
 ---
 
 # Reverse

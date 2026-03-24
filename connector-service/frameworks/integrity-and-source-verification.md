@@ -1,5 +1,5 @@
 ---
-description: Learn about Integrity and Source Verification to optimize your payment infrastructure
+description: Configure Integrity and Source Verification to optimize your payment infrastructure and improve payment processing efficiency
 ---
 
 # Integrity and Source Verification

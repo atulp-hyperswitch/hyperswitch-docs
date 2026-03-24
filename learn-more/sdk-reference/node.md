@@ -1,5 +1,5 @@
 ---
-description: Learn about Node to optimize your payment infrastructure
+description: Configure Node to optimize your payment infrastructure and improve payment processing efficiency
 hidden: true
 ---
 

@@ -1,6 +1,6 @@
 ---
 icon: arrows-rotate-reverse
-description: Learn about Recurring payments to optimize your payment infrastructure
+description: Configure Recurring payments to optimize your payment infrastructure and improve payment processing efficiency
 ---
 
 # Recurring payments

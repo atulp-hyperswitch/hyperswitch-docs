@@ -1,4 +1,4 @@
 ---
-description: Explore payment solutions designed for your specific business use case
+description: Configure Universal Grammar For Payments to address specific payment processing requirements and streamline payment operations
 ---
 

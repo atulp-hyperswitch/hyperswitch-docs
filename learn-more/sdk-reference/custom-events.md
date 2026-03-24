@@ -1,5 +1,5 @@
 ---
-description: Learn about Custom Events to optimize your payment infrastructure
+description: Configure Custom Events to optimize your payment infrastructure and improve payment processing efficiency
 ---
 
 # Custom Events

@@ -1,5 +1,5 @@
 ---
-description: Learn about Bambora to optimize your payment infrastructure
+description: Integrate Bambora to process payments through this connector and improve payment processing efficiency
 hidden: true
 ---
 

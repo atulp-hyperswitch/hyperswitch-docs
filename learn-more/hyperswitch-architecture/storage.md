@@ -1,5 +1,5 @@
 ---
-description: Learn about Storage to optimize your payment infrastructure
+description: Configure Storage to optimize your payment infrastructure and improve payment processing efficiency
 ---
 
 # Storage

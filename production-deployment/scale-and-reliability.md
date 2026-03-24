@@ -1,6 +1,6 @@
 ---
 icon: arrows-maximize
-description: Learn about Scale and Reliability to optimize your payment infrastructure
+description: Configure Scale and Reliability to optimize your payment infrastructure and improve payment processing efficiency
 ---
 
 # Scale and Reliability

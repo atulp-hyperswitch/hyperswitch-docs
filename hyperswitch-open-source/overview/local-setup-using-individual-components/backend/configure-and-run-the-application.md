@@ -1,6 +1,6 @@
 ---
 icon: panel-ews
-description: Learn about Configure and Run the Application to optimize your payment infrastructure
+description: Configure Configure and Run the Application to optimize your payment infrastructure and improve payment processing efficiency
 ---
 
 # Configure and Run the Application

@@ -1,5 +1,5 @@
 ---
-description: Learn about Configuration and Management to optimize your payment infrastructure
+description: Configure Configuration and Management to optimize your payment infrastructure and improve payment processing efficiency
 ---
 
 # Configuration and Management

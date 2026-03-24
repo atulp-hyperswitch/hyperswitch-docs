@@ -1,5 +1,5 @@
 ---
-description: Learn about Code Generation to optimize your payment infrastructure
+description: Configure Code Generation to optimize your payment infrastructure and improve payment processing efficiency
 ---
 
 # Code Generation

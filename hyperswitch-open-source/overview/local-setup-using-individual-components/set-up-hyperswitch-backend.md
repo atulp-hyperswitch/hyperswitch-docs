@@ -1,6 +1,6 @@
 ---
 icon: server
-description: Learn about Backend to optimize your payment infrastructure
+description: Configure Backend to optimize your payment infrastructure and improve payment processing efficiency
 ---
 
 # Backend

@@ -1,6 +1,6 @@
 ---
 icon: link-simple
-description: Learn about Netcetera to optimize your payment infrastructure
+description: Enable Netcetera to enhance your payment processing capabilities and improve payment processing efficiency
 ---
 
 # Netcetera

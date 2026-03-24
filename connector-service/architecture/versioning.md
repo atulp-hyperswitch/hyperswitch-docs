@@ -1,5 +1,5 @@
 ---
-description: Learn about Versioning to optimize your payment infrastructure
+description: Configure Versioning to optimize your payment infrastructure and improve payment processing efficiency
 ---
 
 # Versioning

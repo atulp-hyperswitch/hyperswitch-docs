@@ -1,5 +1,5 @@
 ---
-description: Learn about System Requirements to optimize your payment infrastructure
+description: Configure System Requirements to optimize your payment infrastructure and improve payment processing efficiency
 ---
 
 # System Requirements

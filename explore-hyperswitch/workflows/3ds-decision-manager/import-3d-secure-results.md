@@ -1,5 +1,5 @@
 ---
-description: Learn about Import 3D Secure results to optimize your payment infrastructure
+description: Configure Import 3D Secure results to optimize your payment infrastructure and improve payment processing efficiency
 icon: shield-slash
 ---
 

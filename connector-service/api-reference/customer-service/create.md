@@ -1,5 +1,5 @@
 ---
-description: Learn about Create to optimize your payment infrastructure
+description: Configure Create to optimize your payment infrastructure and improve payment processing efficiency
 ---
 
 # Create

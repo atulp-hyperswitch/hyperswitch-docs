@@ -1,6 +1,6 @@
 ---
 icon: id-card-clip
-description: Learn about Identity and Access Management to optimize your payment infrastructure
+description: Configure Identity and Access Management to optimize your payment infrastructure and improve payment processing efficiency
 ---
 
 # Identity and Access Management

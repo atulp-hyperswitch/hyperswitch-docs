@@ -1,5 +1,5 @@
 ---
-description: Learn about OpenNode to optimize your payment infrastructure
+description: Integrate OpenNode to process payments through this connector and improve payment processing efficiency
 hidden: true
 ---
 

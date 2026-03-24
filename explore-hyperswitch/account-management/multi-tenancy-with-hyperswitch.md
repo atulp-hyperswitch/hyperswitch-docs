@@ -1,6 +1,6 @@
 ---
 icon: cubes-stacked
-description: Learn about Multi-Tenancy to optimize your payment infrastructure
+description: Configure Multi-Tenancy to optimize your payment infrastructure and improve payment processing efficiency
 ---
 
 # Multi-Tenancy

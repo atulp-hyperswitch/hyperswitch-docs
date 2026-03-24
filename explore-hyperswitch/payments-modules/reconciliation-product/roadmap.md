@@ -1,5 +1,5 @@
 ---
-description: Learn about Juspay Hyperswitch Reconciliation Roadmap to optimize your payment infrastructure
+description: Explore Juspay Hyperswitch Reconciliation roadmap and upcoming features and improve payment processing efficiency
 ---
 
 # Juspay Hyperswitch Reconciliation Roadmap

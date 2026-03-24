@@ -1,5 +1,5 @@
 ---
-description: Learn about Worldline to optimize your payment infrastructure
+description: Integrate Worldline payments to accept cards and alternative payment methods globally and improve payment processing efficiency
 hidden: true
 ---
 

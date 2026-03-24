@@ -1,5 +1,5 @@
 ---
-description: Learn about Shift4 to optimize your payment infrastructure
+description: Integrate Shift4 payments to accept cards and alternative payment methods globally and improve payment processing efficiency
 hidden: true
 ---
 

@@ -1,5 +1,5 @@
 ---
-description: Explore payment solutions designed for your specific business use case
+description: Set up automated reconciliation processes to match transactions and resolve discrepancies and streamline payment operations
 ---
 
 # Resolution Strategies for 'Expected' Exceptions

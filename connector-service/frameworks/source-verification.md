@@ -1,5 +1,5 @@
 ---
-description: Learn about Source Verification to optimize your payment infrastructure
+description: Configure Source Verification to optimize your payment infrastructure and improve payment processing efficiency
 ---
 
 # Source Verification

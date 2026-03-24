@@ -1,5 +1,5 @@
 ---
-description: Learn about Prophetpay to optimize your payment infrastructure
+description: Integrate Prophetpay to process payments through this connector and improve payment processing efficiency
 hidden: true
 ---
 
